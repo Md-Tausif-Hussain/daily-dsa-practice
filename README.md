@@ -17,7 +17,7 @@ Welcome to my Daily DSA Practice repository! Here I solve one coding problem eve
 
 - `LeetCode/` - Solutions for LeetCode problems  
 - `GFG/` - Solutions for GeeksforGeeks problems  
-- `Codeforces/` - Solutions for Codeforces problems  
+
 
 ---
 

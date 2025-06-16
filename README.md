@@ -11,6 +11,7 @@ Welcome to my Daily DSA Practice repository! Here I solve one coding problem eve
 | 2025-06-14 | Find Words Containing Character   | LeetCode       | 2942   | [Problem](https://leetcode.com/problems/2942-find-words-containing-character)        |
 | 2025-06-14 | Symmetric Tree                    | GeeksforGeeks  | N/A    | [Problem](https://practice.geeksforgeeks.org/problems/symmetric-tree/1)              |
 | 2025-06-14 | Smallest Divisor                  | GeeksforGeeks  | N/A    | [Problem](https://www.geeksforgeeks.org/problems/smallest-divisor/1)                |
+| 2025-06-16 | Equalize the Towers               | GeeksforGeeks  | N/A    | [Problem](https://www.geeksforgeeks.org/problems/equalize-the-towers/1)             |
 
 ---
 
@@ -27,4 +28,4 @@ Feel free to open issues or pull requests if you want to add or improve solution
 
 ---
 
-*Last updated on: 2025-06-14*
+*Last updated on: 2025-06-16*

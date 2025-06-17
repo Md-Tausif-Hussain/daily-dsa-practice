@@ -12,7 +12,7 @@ Welcome to my Daily DSA Practice repository! Here I solve one coding problem eve
 | 2025-06-14 | Symmetric Tree                    | GeeksforGeeks  | N/A    | [Problem](https://practice.geeksforgeeks.org/problems/symmetric-tree/1)              |
 | 2025-06-14 | Smallest Divisor                  | GeeksforGeeks  | N/A    | [Problem](https://www.geeksforgeeks.org/problems/smallest-divisor/1)                |
 | 2025-06-16 | Equalize the Towers               | GeeksforGeeks  | N/A    | [Problem](https://www.geeksforgeeks.org/problems/equalize-the-towers/1)             |
-| 2025-06-17 | Coin Piles                        | GeeksforGeeks | N/A    | [Code](LeetCode/Coin_Piles.java)                                                    |
+| 2025-06-17 | Coin Piles                        | GeeksforGeeks | N/A    | [Problem](https://www.geeksforgeeks.org/problems/coin-piles5152/1)                                                    |
 
 ---
 

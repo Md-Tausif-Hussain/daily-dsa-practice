@@ -1,6 +1,6 @@
 // Problem: Smallest Divisor
 // Platform: GeeksforGeeks
-// Date: 2025-06-14
+// Date: 2025-06-15
 // Problem Link: https://www.geeksforgeeks.org/problems/smallest-divisor/1
 
 import java.util.Arrays;

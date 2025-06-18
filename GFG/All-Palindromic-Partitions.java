@@ -1,0 +1,40 @@
+// Problem: All Palindromic Partitions
+// Platform: GeeksforGeeks
+// Date: 2025-06-17
+// Problem Link: https://www.geeksforgeeks.org/problems/all-palindromic-partitions/1
+
+import java.util.*;
+
+class Solution {
+    public ArrayList<ArrayList<String>> palinParts(String s) {
+        ArrayList<ArrayList<String>> ans = new ArrayList<>();
+        ArrayList<String> tmp = new ArrayList<>();
+        chec(s, 0, tmp, ans);
+        return ans;
+    }
+
+    static void chec(String s, int ind, ArrayList<String> tmp, ArrayList<ArrayList<String>> ans) {
+        if (ind >= s.length()) {
+            ans.add(new ArrayList<>(tmp));
+            return;
+        }
+        for (int i = ind + 1; i <= s.length(); i++) {
+            String curr = s.substring(ind, i);
+            if (isPalin(curr)) {
+                tmp.add(curr);
+                chec(s, i, tmp, ans);
+                tmp.remove(tmp.size() - 1);
+            }
+        }
+    }
+
+    static boolean isPalin(String curr) {
+        int i = 0, j = curr.length() - 1;
+        while (i < j) {
+            if (curr.charAt(i) != curr.charAt(j)) return false;
+            i++;
+            j--;
+        }
+        return true;
+    }
+}

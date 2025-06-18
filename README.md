@@ -13,7 +13,7 @@ Welcome to my Daily DSA Practice repository! Here I solve one coding problem eve
 | 2025-06-15 | Smallest Divisor                  | GeeksforGeeks  | N/A    | [Problem](https://www.geeksforgeeks.org/problems/smallest-divisor/1)                |
 | 2025-06-16 | Equalize the Towers               | GeeksforGeeks  | N/A    | [Problem](https://www.geeksforgeeks.org/problems/equalize-the-towers/1)             |
 | 2025-06-17 | Coin Piles                        | GeeksforGeeks  | N/A    | [Problem](https://www.geeksforgeeks.org/problems/coin-piles5152/1)                  |
-| 2025-06-18 | All Palindromic Partitions        | GeeksforGeeks  | N/A    | [Problem](https://www.geeksforgeeks.org/problems/all-palindromic-partitions/1)      |
+| 2025-06-18 | All Palindromic Partitions        | GeeksforGeeks  | N/A    | [Problem](https://www.geeksforgeeks.org/problems/find-all-possible-palindromic-partitions-of-a-string/1)      |
 
 ---
 

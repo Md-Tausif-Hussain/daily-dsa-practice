@@ -1,6 +1,6 @@
 // Problem: All Palindromic Partitions
 // Platform: GeeksforGeeks
-// Date: 2025-06-17
+// Date: 2025-06-18
 // Problem Link: https://www.geeksforgeeks.org/problems/all-palindromic-partitions/1
 
 import java.util.*;

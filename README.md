@@ -17,6 +17,7 @@ Welcome to my Daily DSA Practice repository! Here I solve one coding problem eve
 | 2025-06-19 | Case-specific Sorting of Strings | GeeksforGeeks  | N/A    | [Problem](https://www.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1) |
 | 2025-06-20 | Group Balls by Sequence           | GeeksforGeeks  | N/A    | [Problem](https://www.geeksforgeeks.org/problems/group-balls-by-sequence/1)                                              |
 | 2025-06-21 | Police and Thieves               | GeeksforGeeks  | N/A    | [Problem](https://www.geeksforgeeks.org/problems/police-and-thieves--141631/1)                                                  |
+| 2025-06-24 | Lexicographically Largest String After K Deletions | GeeksforGeeks | N/A    | [Problem](https://www.geeksforgeeks.org/problems/lexicographically-largest-string-after-deleting-k-characters/1)           |
 
 ---
 
@@ -33,4 +34,4 @@ Feel free to open issues or pull requests if you want to add or improve solution
 
 ---
 
-# *Last updated on: 2025-06-21*
+# *Last updated on: 2025-06-24*
